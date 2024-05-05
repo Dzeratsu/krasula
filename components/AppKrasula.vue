@@ -1,7 +1,7 @@
 <template>
   <section>
     <span id="about" class="block absolute -mt-32 lg:-mt-24"></span>
-    <div class="mx-auto px-6 py-[27px] sm:my-[80px]">
+    <div class="mx-auto px-6 max-sm:py-[27px] sm:my-[80px]">
       <h2 class="text-center text-[21px] font-bold lp:text-4xl 2xl:text-6xl uppercase">
         Уникальный
         <span class="max-sm:block"

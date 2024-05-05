@@ -67,7 +67,10 @@ export default {
   css: ['./swiper/swiper-bundle.min.css'],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [],
+  plugins: [
+    { src: '~/plugins/swiper-slider.js', mode: 'client' },
+    { src: '~/plugins/v-mask.js', mode: 'client' },
+  ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,

@@ -4,16 +4,16 @@
       quality="100"
       format="webp"
       src="img/banner.png"
-      alt="pirilax special"
+      alt="krasula"
       class="mx-auto hidden mob:block lp:w-[90%]"
     />
     <nuxt-img
       format="webp"
       quality="100"
       src="img/banner-mob.png"
-      alt="pirilax special"
+      alt="krasula"
       width="375"
-      height="213"
+      height="279"
       class="mob:hidden w-full pt-6"
     />
   </div>

@@ -7,7 +7,7 @@
         class="max-sm:flex-col flex gap-x-[30px] max-sm:mt-[18px] 2xl:mt-[61px] lp:mt-[23px] flex-row-reverse"
       >
         <div class="sm:w-6/12">
-          <div class="flex items-center sm:items-center flex-shrink-1">
+          <div class="flex items-center sm:items-center flex-shrink-1 lg:h-[100px]">
             <nuxt-img
               format="webp"
               quality="100"
@@ -26,11 +26,11 @@
               height="48"
               alt="Защита древесины от огня для наружных работ"
             />
-            <ul class="ml-[18px] sm:ml-[30px] leading-[25px] h-[100px]">
+            <ul class="ml-[18px] sm:ml-[30px] leading-[25px]">
 <!--              <li class="text-[16px] font-semibold lg:text-[21px]">
                 Для ВНУТРЕННИХ работ
               </li>-->
-              <li class="text-[16px] max-sm:leading-[15px] lg:text-[21px]">
+              <li class="text-[16px] max-sm:leading-[15px] lg:text-[21px] font-semibold">
                 Цвет +
                 защита от плесени, растрескивания, старения, выцветания, влаги
               </li>
@@ -47,7 +47,7 @@
           />
         </div>
         <div class="max-sm:mt-[36px] sm:w-6/12">
-          <div class="flex items-center sm:items-center">
+          <div class="flex items-center sm:items-center lg:h-[100px]">
             <nuxt-img
               format="webp"
               quality="100"
@@ -66,13 +66,13 @@
               height="70"
               alt="#"
             />
-            <ul class="ml-[18px] sm:ml-[30px] leading-[25px] h-[100px]">
+            <ul class="ml-[18px] sm:ml-[30px] leading-[25px]">
 <!--              <li class="text-[16px] font-semibold lg:text-[21px]">
                 Для НАРУЖНЫХ работ
               </li>-->
-              <li class="text-[16px] max-sm:leading-[15px] lg:text-[21px]">
+              <li class="text-[16px] max-sm:leading-[15px] lg:text-[21px] font-semibold">
                 Цвет  +
-                <p class="color-red"> защита от огня +</p>
+                <p class="text-red"> защита от огня +</p>
                 защита от плесени, растрескивания, старения,
                 выцветания, влаги
               </li>

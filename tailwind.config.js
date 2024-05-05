@@ -14,6 +14,7 @@ module.exports = {
       red: '#BD1622',
       white: '#FFFFFF',
       gray: '#ECECEC',
+      tGray: '#B0B0B0',
       'bg-gray': '#F8F8F8',
       yellow: '#FFEE00',
       popup: 'rgba(0, 0, 0, 0.3)',
