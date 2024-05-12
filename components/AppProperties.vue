@@ -66,7 +66,7 @@ export default {
   },
 }
 </script>
-<style>
+<style scoped>
 .swiper {
   width: 100%;
   height: 100%;

@@ -90,6 +90,9 @@
         </div>
       </div>
     </div>
+    <div>
+      <AppPainted/>
+    </div>
     <AppButton
       link="https://www.nort-udm.ru/mesta-prodazh/"
       class="2xl:mt-[66px] mt-[33px] lp:mt-[15px]"

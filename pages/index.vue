@@ -12,14 +12,18 @@
   <AppAdvantages  class="max-w-[1170px] mx-auto" />
   </div>
   <AppForJobs class="py-[27px] sm:py-[80px] max-w-[1170px] mx-auto"/>
-  <AppReady class="py-[27px] sm:py-[80px] max-w-[1170px] mx-auto" />
+  <div class="bg-bg-gray py-[27px] sm:pt-[80px] py-[20px]">
+  <AppReady class="max-w-[1170px] mx-auto" />
+  </div>
+  <AppRewiew />
   <AppMarketplace class="max-w-[1170px] mx-auto" />
+  <AppVk/>
+<AppScrollToTop />
   <AppFooter/>
 </main>
 </template>
 
 <script>
-
 
 export default {
   name: 'IndexPage',

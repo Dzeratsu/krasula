@@ -17,7 +17,7 @@
         <span class="max-sm:block">
           е-mail:
           <a href="mailto:special@ooonort.ru" class="underline"
-            >special@ooonort.ru</a
+            >krasulatop@ooonort.ru</a
           ></span
         >
       </p>
