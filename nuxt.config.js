@@ -3,6 +3,9 @@ const { SITE_KEY } = process.env
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   targer: 'server',
+  server:{
+    port: 3001,
+  },
   eslint: {
     fix: true,
   },
