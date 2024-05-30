@@ -3,7 +3,7 @@
     <h2 class="text-center text-[21px] font-bold lp:text-4xl 2xl:text-6xl uppercase">
       Отзывы покупателей
     </h2>
-    <div class="swiper1 mySwiper mt-[56px]">
+    <div class="swiper1 mySwiper mt-[56px] max-sm:hidden">
       <div class="swiper-wrapper">
       <div class="swiper-slide">
         <nuxt-img
