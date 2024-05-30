@@ -3,12 +3,8 @@
     <span id="about" class="block absolute -mt-32 lg:-mt-24"></span>
     <div class="mx-auto px-6 max-sm:py-[27px] sm:my-[80px]">
       <h2 class="text-center text-[21px] font-bold lp:text-4xl 2xl:text-6xl uppercase">
-        Уникальный
-        <span class="max-sm:block"
-          >огнебиозащитный состав,
-          <span class="sm:block">совместимый с лаками и красками!</span></span
-        >
-      </h2>
+        Финишное атмосферостойкое покрытие <br>
+        «KRASULA®» Aqua TOP</h2>
       <div>
         <div
           class="mt-5 flex flex-col items-center md:flex-row sm:justify-center sm:gap-[57px]"
