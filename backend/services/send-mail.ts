@@ -12,9 +12,9 @@ export default async function sendLead(data: Ilead) {
   const email = checkRegion(data.region)
   try {
     return await connect.sendMail({
-      from: "SPECIAL.nort-udm.ru",
-      to: `a498008@yandex.ru, special@ooonort.ru, ${email}`,
-      subject: "Вопрос с сайта special.nort-udm.ru",
+      from: "KRASULATOP",
+      to: `a498008@yandex.ru, krasulatop@ooonort.ru, ${email}`,
+      subject: "Вопрос с сайта krasulatop.ru",
       html: `<span>Имя: </span>${data.name} <br> <span>Телефон: </span>${data.phone}, <br> <span>Регион: </span>${data.region} <br> <span>Вопрос: </span>${data.text}`
     })
   }catch(e) {

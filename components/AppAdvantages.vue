@@ -12,11 +12,15 @@
         </div></div>
       </div>
     </div>
-    <div class="lg:mt-[80px] mt-6">
-      <nuxt-img
-        quality="100"
-        format="webp"
-src="/img/youtube.png" width="1170" height="633"/>
+    <div class="lg:mt-[80px] mt-6 max-sm:hidden">
+      <client-only>
+        <iframe width="100%" height="633" src="https://www.youtube.com/embed/4wATIdR5Smk?si=WOmKPGFob-vrCX6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </client-only>
+    </div>
+    <div class="lg:mt-[80px] mt-6 sm:hidden">
+      <client-only>
+        <iframe width="100%" height="202" src="https://www.youtube.com/embed/4wATIdR5Smk?si=WOmKPGFob-vrCX6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </client-only>
     </div>
 </div>
 </template>

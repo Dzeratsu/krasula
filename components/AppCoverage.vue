@@ -6,10 +6,9 @@
         <p class="mt-6 text-[18px]">Эластичный защитный слой с гидрофобным эффектом отталкивает воду и грязь, не позволяет им проникать внутрь древесины, поверхность «самоочищается». Обработанные «Krasula» Aqua Top поверхности надолго сохраняют прочность и красивый внешний вид.</p>
       </div>
       <div class="lg:w-7/12 w-full">
-        <nuxt-img
-          quality="100"
-          format="webp"
-src="img/previeCoverage.png" width="670" height="403" class="w-full"/>
+        <client-only>
+          <iframe width="100%" height="403" src="https://www.youtube.com/embed/w_bYTCbTxX4?si=cXRzw-Zv7Jmwpqwm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </client-only>
       </div>
     </div>
     <div class="max-sm:hidden block">
@@ -60,7 +59,7 @@ export default {
   },
   mounted() {
     /* eslint-disable no-unused-vars */
-    const swiper = new this.$swiper('.swiper2', {
+    const swiper2 = new this.$swiper('.swiper2', {
       grabCursor: true,
       modules: [this.$swiperModules.Navigation, this.$swiperModules.Pagination],
       navigation: {
@@ -93,16 +92,16 @@ export default {
 }
 .swiper-button-next {
   font-weight: 900;
-  margin-top: -100px;
+  margin-top: -50px;
   color: #ffee00;
   width: 15px;
 }
 .swiper-button-prev {
   font-weight: 900;
-  margin-top: -100px;
+  margin-top: -50px;
   color: #ffee00;
 }
-.swiper-button-next.swiper-button-disabled, .swiper-button-prev.swiper-button-disabled {
+.swiper-button-next .swiper-button-disabled, .swiper-button-prev2.swiper-button-disabled {
   color: #545454;
   cursor: auto;
   pointer-events: none;

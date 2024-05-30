@@ -6,6 +6,36 @@
         Финишное атмосферостойкое покрытие <br>
         «KRASULA®» Aqua TOP</h2>
       <div>
+        <div class=" mt-4 bg-bg-gray rounded-xl max-w-[970px] mx-auto align-middle items-center lg:text-center py-[20px] lg:text-[21px] p-4 text-[16px]">
+          <div class="flex gap-2 max-sm:items-baseline lg:ml-[100px]">
+            <nuxt-img
+              src="img/ellipse.svg"
+              alt="krasula"
+              width="8"
+              height="8"
+            />
+            <p> наносится на необработанную древесину</p>
+          </div>
+          <div
+class="flex gap-2 max-sm:items-baseline lg:ml-[100px]">
+            <nuxt-img
+              src="img/ellipse.svg"
+              alt="krasula"
+              width="8"
+              height="8"
+            />
+            <p>в качестве дополнительного защитного покрытия поверх красок и лаков</p>
+          </div>
+          <div class="flex gap-2   max-sm:items-baseline lg:ml-[100px]">
+            <nuxt-img
+              src="img/ellipse.svg"
+              alt="krasula"
+              width="8"
+              height="8"
+            />
+            <p>поверх огнезащитного состава «Pirilax®»- Special</p>
+          </div>
+        </div>
         <div
           class="mt-5 flex flex-col items-center md:flex-row sm:justify-center sm:gap-[57px]"
         >
@@ -60,7 +90,8 @@ export default {
       text: [
         `<p>Замедляет старение древесины</p>`,
         `<p>Продлевает срок службы ЛКМ</p>`,
-        `<p>Защищает от синевы, плесени, водорослей <br> <span class="text-[18px] font-normal">Высокоэффективный антисептик по ГОСТ 30028.4</span> </p>`,
+        `<p>Придает водо- и грязеотталкивающие свойства</p>`,
+        `<p>Защищает от синевы, плесени, водорослей <br> <span class="text-[18px] font-normal">Высокоэффективный антисептик по ГОСТ 30028.4</span></p>`,
         `<p>Препятствует потемнению от УФ-лучей</p>`,
         `<p>Снижает растрескивание из-за усушки</p>`,
       ],

@@ -15,15 +15,18 @@
   <div class="bg-bg-gray py-[27px] sm:pt-[80px] py-[20px]">
   <AppReady class="max-w-[1170px] mx-auto" />
   </div>
-  <AppRewiew />
+<!--  <AppRewiew />-->
   <AppMarketplace class="max-w-[1170px] mx-auto" />
   <AppVk/>
+  <AppPopup/>
+  <AppPhone/>
 <AppScrollToTop />
   <AppFooter/>
 </main>
 </template>
 
 <script>
+
 
 export default {
   name: 'IndexPage',
