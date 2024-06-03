@@ -1,12 +1,12 @@
 <template>
-<div class="px-2">
+<div class="max-sm:px-2">
   <h2 class="text-center text-[19px] font-bold lp:text-4xl 2xl:text-6xl uppercase">
     придает атмосферостойкие, антисептические и декоративные свойства древесине
   </h2>
 <div class="max-sm:hidden block">
   <div class="flex flex-wrap mt-[48px] justify-center">
     <div v-for="(item, index) in slide" :key="item.text" class="w-[233px]">
-      <div class="flex flex-col justify-center items-center gap-3">
+      <div class="flex flex-col justify-center items-center gap-2">
       <nuxt-img :src="item.imgSrc" width="180" height="180" class="align-middle"/>
       <div
 class="font-semibold text-[21px] text-center"
