@@ -1,5 +1,6 @@
 <template>
   <div class="mx-auto max-sm:py-[27px] lg:my-[80px]">
+    <span id="apply" class="block absolute -mt-32 lg:-mt-24"></span>
     <h2 class="text-center text-[21px] font-bold lp:text-4xl 2xl:text-6xl uppercase">
       Подходит для наружных и  внутренних работ
     </h2>

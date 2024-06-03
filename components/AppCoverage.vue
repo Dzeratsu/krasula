@@ -6,8 +6,11 @@
         <p class="mt-6 text-[18px]">Эластичный защитный слой с гидрофобным эффектом отталкивает воду и грязь, не позволяет им проникать внутрь древесины, поверхность «самоочищается». Обработанные «Krasula» Aqua Top поверхности надолго сохраняют прочность и красивый внешний вид.</p>
       </div>
       <div class="lg:w-7/12 w-full">
+        <client-only >
+          <iframe class="max-sm:hidden" width="100%" height="403" src="https://www.youtube.com/embed/w_bYTCbTxX4?si=cXRzw-Zv7Jmwpqwm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </client-only>
         <client-only>
-          <iframe width="100%" height="403" src="https://www.youtube.com/embed/w_bYTCbTxX4?si=cXRzw-Zv7Jmwpqwm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe   class="hidden max-sm:block" width="100%" height="219" src="https://www.youtube.com/embed/w_bYTCbTxX4?si=cXRzw-Zv7Jmwpqwm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </client-only>
       </div>
     </div>

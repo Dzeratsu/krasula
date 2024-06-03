@@ -119,11 +119,11 @@ export default {
       openMenu: false,
       link: [
         { name: 'О продукте', link: '#about' },
-        { name: 'Свойства', link: '#property' },
-        { name: 'Как работает', link: '#works' },
-        { name: 'Готовые решения', link: '#ready-solutions' },
-        /*        { name: 'Где купить', link: '#buy' } , */
-        { name: 'Отзывы', link: '#reviews' },
+        { name: 'Преимущества', link: '#succession' },
+        { name: 'Где применять', link: '#apply' },
+        { name: 'Готовые комплексы', link: '#ready-solutions' },
+        /*        { name: 'Отзывы', link: '#buy' } , */
+        // { name: 'Где купить', link: '#reviews' },
       ],
     }
   },

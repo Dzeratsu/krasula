@@ -1,6 +1,6 @@
 <template>
-<div>
-  <h2 class="text-center text-[21px] font-bold lp:text-4xl 2xl:text-6xl uppercase">
+<div class="px-2">
+  <h2 class="text-center text-[19px] font-bold lp:text-4xl 2xl:text-6xl uppercase">
     придает атмосферостойкие, антисептические и декоративные свойства древесине
   </h2>
 <div class="max-sm:hidden block">

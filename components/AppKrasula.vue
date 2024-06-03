@@ -40,8 +40,6 @@ class="flex gap-2 max-sm:items-baseline lg:ml-[100px]">
           class="mt-5 flex flex-col items-center md:flex-row sm:justify-center sm:gap-[57px]"
         >
           <nuxt-img
-            format="webp"
-            quality="100"
             class="hidden sm:block lp:max-w-[320px] max-w-full"
             src="img/krasula.png"
             alt="pirilax-special"
@@ -49,8 +47,6 @@ class="flex gap-2 max-sm:items-baseline lg:ml-[100px]">
             height="408"
           />
           <nuxt-img
-            format="webp"
-            quality="100"
             src="img/krasula-mob.png"
             alt="pirilax-special-mob"
             width="275"

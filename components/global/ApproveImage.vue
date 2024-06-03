@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex items-center gap-2 pt-3 text-base font-semibold leading-[16px] sm:text-[21px] sm:leading-[21px] flex-shrink-1"
+    class="flex items-center gap-2 pt-3 text-base font-semibold test-[14px] leading-[16px] sm:text-[21px] sm:leading-[21px] flex-shrink-1"
   >
     <div class="max-sm:min-w-[40px] min-w-[60px] hidden sm:block">
       <nuxt-img

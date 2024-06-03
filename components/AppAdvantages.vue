@@ -1,5 +1,6 @@
 <template>
   <div class="mx-auto px-6 max-sm:py-[27px] lg:my-[80px]">
+    <span id="succession" class="block absolute -mt-32 lg:-mt-24"></span>
     <h2 class="text-center text-[21px] font-bold lp:text-4xl 2xl:text-6xl uppercase">
       Преимущества состава «KRASULA®» Aqua TOP
     </h2>

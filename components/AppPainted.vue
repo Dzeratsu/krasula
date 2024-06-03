@@ -14,6 +14,8 @@
     </div>
     </div>
     <div class="swiper max-sm:block hidden">
+      <h3 class="uppercase font-bold lg:text-[40px] text-[21px] mx-auto text-center mt-[80px] ">Варианты нанесения</h3>
+
       <ul class="swiper-wrapper mt-4">
         <li
           v-for="item in painted"
@@ -43,9 +45,9 @@ export default {
       painted: [
         {hred: '/img/painted/painted1.png', alt: '#', text: `<b>Krasula Aqua Top</b></br> 100 г/м<sup>2</sup>` },
         {hred: '/img/painted/painted2.png', alt: '#', text:`<b>Krasula «Серый»</b> 120 г/м<sup>2</sup> <br> (2 слоя) + <br><b>Krasula Aqua Top</b>100 г/м<sup>2</sup> </br>(3 слоя)`},
-        {hred: '/img/painted/painted3.png', alt: '#', text:`<b>Krasula «Серый»</b> 120 г/м<sup>2</sup> <br> (2 слоя) + <br>  <b>Pirilax-Special 180 г/м<sup>2</sup> </b> <br>(2 слоя) + <br><b>Krasula Aqua Top</b>100 г/м<sup>2</sup> </br>(3 слоя)`},
-        {hred: '/img/painted/painted4.png', alt: '#', text: `<b>Biofa</b>RAL7516</br> <b>+ Krasula Aqua Top</b><br>100 г/м<sup>2</sup>(3 слоя)`},
-        {hred: '/img/painted/painted5.png', alt: '#', text: `<b>Biofa</b>RAL7502</br><b>+ Pirilax-Special</b> <br> 180 г/м<sup>2</sup>(2 слоя) <b><br>+ Krasula Aqua Top</b><br>100 г/м<sup>2</sup>(3 слоя)`}
+        {hred: '/img/painted/painted3.png', alt: '#', text:`<b>Krasula «Орех»</b> 120 г/м<sup>2</sup> <br> (2 слоя) + <br>  <b>Pirilax-Special 180 г/м<sup>2</sup> </b> <br>(2 слоя) + <br><b>Krasula Aqua Top</b>100 г/м<sup>2</sup> </br>(3 слоя)`},
+        {hred: '/img/painted/painted4.png', alt: '#', text: `<b>Biofa</b> RAL7516</br> <b>+ Krasula Aqua Top</b><br>100 г/м<sup>2</sup>(3 слоя)`},
+        {hred: '/img/painted/painted5.png', alt: '#', text: `<b>Biofa</b> RAL7502</br><b>+ Pirilax-Special</b> <br> 180 г/м<sup>2</sup>(2 слоя) <b><br>+ Krasula Aqua Top</b><br>100 г/м<sup>2</sup>(3 слоя)`}
       ]
     }
 },
