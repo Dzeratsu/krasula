@@ -189,7 +189,7 @@ export default {
         this.form.recaptcha_response_invisible =
           await this.$recaptcha.getResponse()
         const response = await this.$axios.post(
-          '/api/create-lead',
+          'https://krasulatop.ru/api/create-lead',
           this.form
         )
         if(response.status === 201) {

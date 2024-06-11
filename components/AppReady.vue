@@ -39,7 +39,7 @@
           <nuxt-img
             format="webp"
             quality="100"
-            class="mt-[46px] lp:mt-[16px] lp:max-w-[80%]"
+            class="mt-[46px] lp:mt-[16px]"
             src="img/ready2.png"
             width="570"
             height="428"
