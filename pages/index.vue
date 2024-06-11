@@ -15,7 +15,7 @@
   <div class="bg-bg-gray py-[27px] sm:pt-[80px] py-[20px]">
   <AppReady class="max-w-[1170px] mx-auto" />
   </div>
-  <AppRewiew />
+  <AppRewiew class="py-[27px] sm:py-[80px] max-w-[1170px] mx-auto" />
   <AppMarketplace class="max-w-[1170px] mx-auto" />
   <AppVk/>
   <AppPopup/>
