@@ -1,4 +1,4 @@
 User-Agent: *
-Host: https://krasula.nort-udm.ru
+Host: https://krasulatop.ru
 
-Sitemap: https://krasula.nort-udm.ru/sitemap.xml
+Sitemap: https://krasulatop.ru/sitemap.xml
