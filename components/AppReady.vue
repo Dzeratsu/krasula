@@ -15,7 +15,7 @@
               src="img/ready-icon2.png"
               width="70"
               height="70"
-              alt="Защита древесины от огня для наружных работ"
+              alt="Защита древесины  - финищное покрытие"
             />
             <nuxt-img
               format="webp"
@@ -43,7 +43,7 @@
             src="img/ready2.png"
             width="570"
             height="428"
-            alt="Защита древесины от огня для наружных работ"
+            alt="Защита от старения и влаги"
           />
         </div>
         <div class="max-sm:mt-[36px] sm:w-6/12">
@@ -55,7 +55,8 @@
               src="img/ready-icon2mob.png"
               width="48"
               height="48"
-              alt="Защита древесины от огня для наружных работ"
+              alt="защита от плесени, растрескивания, старения,
+                выцветания, влаги"
             />
             <nuxt-img
               format="webp"
@@ -64,7 +65,7 @@
               src="img/ready-icon1.png"
               width="70"
               height="70"
-              alt="#"
+              alt="Защитный состав с гидрофобным покрытием"
             />
             <ul class="ml-[18px] sm:ml-[30px] leading-[25px]">
 <!--              <li class="text-[16px] font-semibold lg:text-[21px]">
@@ -85,7 +86,7 @@
             src="img/ready1.png"
             width="570"
             height="428"
-            alt="#"
+            alt="Защитный состав с гидрофобным покрытием"
           />
         </div>
       </div>

@@ -42,13 +42,13 @@ class="flex gap-2 max-sm:items-baseline lg:ml-[100px]">
           <nuxt-img
             class="hidden sm:block lp:max-w-[320px] max-w-full"
             src="img/krasula.png"
-            alt="pirilax-special"
+            alt="Защитный декоратинвный состав для древесины krasula top"
             width="417"
             height="408"
           />
           <nuxt-img
             src="img/krasula-mob.png"
-            alt="pirilax-special-mob"
+            alt="Защитный декоратинвный состав для древесины krasula top"
             width="275"
             height="269"
             class="sm:hidden"
@@ -61,14 +61,14 @@ class="flex gap-2 max-sm:items-baseline lg:ml-[100px]">
         </div>
       </div>
       <AppButton
-        link="https://www.nort-udm.ru/upload/iblock/ed7/ed76fe858cd997c9dcf2585e53cc3da9.pdf"
+        link="https://www.nort-udm.ru/upload/iblock/d0d/d0dbae0c3972ae50123b21170f322608.pdf"
         class="mt-[39px]"
       >
         <div class="flex items-center justify-center gap-4">
           <span>Инструкция</span>
           <nuxt-img
             format="webp"
-            quality="100" src="img/load.svg" width="23" height="23" alt="load" />
+            quality="100" src="img/load.svg" width="23" height="23" alt="Смотреть инструкцию krasula top" />
         </div>
       </AppButton>
     </div>

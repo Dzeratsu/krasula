@@ -38,7 +38,7 @@
             heigh="259"
             format="webp"
             quality="100" src="/img/jobs/forJobs3.png" />
-        </li>\
+        </li>
         <li
           class="swiper-slide flex flex-col items-center text-center "
         >

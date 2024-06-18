@@ -4,14 +4,14 @@
       quality="100"
       format="webp"
       src="img/banner.png"
-      alt="krasula"
+      alt="krasula top"
       class="mx-auto hidden mob:block lp:w-[90%]"
     />
     <nuxt-img
       format="webp"
       quality="100"
       src="img/banner-mob.png"
-      alt="krasula"
+      alt="krasula top"
       width="375"
       height="279"
       class="mob:hidden w-full pt-6"

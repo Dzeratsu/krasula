@@ -12,7 +12,7 @@
             quality="100"
             class="sm:hidden"
             src="img/rewiew/rewiew-mob3.png"
-            alt="pirilax-special защита от огня отзывы"
+            alt="защита от плесени"
             width="267"
             height="374"
           />
@@ -21,7 +21,7 @@
             quality="100"
             class="hidden sm:block lp:max-w-[70%]"
             src="img/rewiew/rewiew1.png"
-            alt="pirilax-special защита древесины отзывы"
+            alt="Защита от старения"
             width="1031"
             height="664"
           />
@@ -36,7 +36,7 @@
             quality="100"
             class="sm:hidden"
             src="img/rewiew/rewiew-mob3.png"
-            alt="pirilax-special защита отзывы"
+            alt="Защита древесины"
             width="267"
             height="374"
           />
@@ -45,7 +45,7 @@
             quality="100"
             class="hidden sm:block lp:max-w-[70%]"
             src="img/rewiew/rewiew2.png"
-            alt="pirilax-special огнезащита отзывы"
+            alt="С гидрофобным покрытием"
             width="1031"
             height="664"
           />
@@ -60,7 +60,7 @@
             quality="100"
             class="sm:hidden"
             src="img/rewiew/rewiew-mob3.png"
-            alt="pirilax-special защищает от огня отзывы"
+            alt="защитит ваш дом"
             width="267"
             height="374"
           />
@@ -69,7 +69,7 @@
             quality="100"
             class="hidden sm:block lp:max-w-[70%]"
             src="img/rewiew/rewiew3.png"
-            alt="pirilax-special можно красить отзывы"
+            alt="Krasula top  отзывы"
             width="1031"
             height="664"
           />

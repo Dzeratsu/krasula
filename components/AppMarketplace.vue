@@ -18,24 +18,24 @@
       <div
         class="lg:ml-[105px] flex gap-x-[25px] mt-[25px] lg:mt-0 justify-center"
       >
-        <a href="https://www.wildberries.ru/catalog/0/search.aspx?search=%D0%9F%D0%B8%D1%80%D0%B8%D0%BB%D0%B0%D0%BA%D1%81%20%D0%A1%D0%BF%D0%B5%D1%88%D0%BB" target="_blank"
+        <a href="https://www.wildberries.ru/catalog/0/search.aspx?search=%D0%BA%D1%80%D0%B0%D1%81%D1%81%D1%83%D0%BB%D0%B0%20%D0%B0%D0%BA%D0%B2%D0%B0%20%D1%82%D0%BE%D0%BF" target="_blank"
           ><nuxt-img
-          alt="Купить Pirilax Special на wildberess"
+          alt="Купить Krasula aqua top на wildberess"
           format="webp"
           quality="100" src="img/will.png" width="228" height="50"
         /></a>
-        <a href="https://www.ozon.ru/search/?from_global=true&text=pirilax+special" target="_blank"
+        <a href="https://www.ozon.ru/search/?text=Krasula+Aqua+Top&from_global=true" target="_blank"
           ><nuxt-img
           format="webp"
-          alt="Купить Pirilax Special на ozon"
+          alt="Купить Krasula aqua top на ozon"
           quality="100" src="img/ozon.png" width="177" height="50"
         /></a>
         <a
-          href="https://market.yandex.ru/catalog--propitki/18060868/list?hid=16407095&text=%D0%BF%D0%B8%D1%80%D0%B8%D0%BB%D0%B0%D0%BA%D1%81&rt=9&was_redir=1&cpa=1&rs=eJwzEgtgrGLl2L7lJfsqRi6Om-9msgkce_SQGQBiQQk7&_redirectCount=1"
+          href="https://market.yandex.ru/search?suggest_text=%D0%9D%D0%9E%D0%A0%D0%A2&vendorId=13323952&rs=eJxVyaEOwjAQANCVLDCqKgmYk7je9W5ra5EogkORbkcVkv3_giHj2Rc2N3N52JPtOuPg0ELrtse9vmqZ359ngObc_NKCXSf_pQGzTvqmM9ddr2GqKPdAkRJLyhmJxfcDZaFJx8IxlVG5cgxJVIUKDoiePC0fzh4V&glfilter=7893318%3A13323952"
           target="_blank"
           ><nuxt-img
           format="webp"
-          alt="Купить Pirilax Special на яндекс маркете"
+          alt="Купить Krasula aqua top на яндекс маркете"
           quality="100" src="img/ya.png" width="242" height="51"
         /></a>
       </div>
@@ -47,27 +47,26 @@
         </p>
         <div class="flex gap-x-[30px] mt-[19px] justify-center">
           <a
-            href="https://www.wildberries.ru/catalog/0/search.aspx?search=%D0%9F%D0%B8%D1%80%D0%B8%D0%BB%D0%B0%D0%BA%D1%81%20%D0%A1%D0%BF%D0%B5%D1%88%D0%BB"
+            href="https://www.wildberries.ru/catalog/0/search.aspx?search=%D0%BA%D1%80%D0%B0%D1%81%D1%81%D1%83%D0%BB%D0%B0%20%D0%B0%D0%BA%D0%B2%D0%B0%20%D1%82%D0%BE%D0%BF"
             target="_blank"
           >
             <nuxt-img
               format="webp"
-              alt="Купить Pirilax Special на wildberess"
+              alt="Купить Krasula aqua top на wildberess"
               quality="100" src="img/will-mob.png" width="58" height="58"
           /></a>
-          <a href="https://www.ozon.ru/search/?from_global=true&text=pirilax+special" target="_blank">
+          <a href="https://www.ozon.ru/search/?text=Krasula+Aqua+Top&from_global=true" target="_blank">
             <nuxt-img
               format="webp"
-              alt="Купить Pirilax Special на ozon"
+              alt="Купить Krasula aqua top на ozon"
               quality="100" src="img/ozon-mob.png" width="58" height="58"
           /></a>
           <a
-            href=" https://market.yandex.ru/catalog--propitki/18060868/list?text=Krasula%20Aqua%20Top&hid=16407095&rs=eJxdT01IFGEYnvF3-rwMHqRWsq8IGkHY-dmZcdWtqUNEUUSXLsHs7OwsLqyu7rge7CKih6RDIkg_BEvRJSgiggrbdgmUBE-ihIfAW3nzKATZvg-bf3zw8PL8fe-rLzTeFieapY8ftluXRGEyLBPeICzNJmg-f7GGWxbwN_H8_QDNm8AzxPNXSK0sUuoFpXiZVOEXzVuLn2uYHCWP0EdM8s8X8t8E00FYvU8Mf0mqMAXPI8yf0NaN-Q1-fI7dzhE6tyrk9CkrVPoJV-GMk5r8TkzpB65o_kp-k7atXsK2VymVvIy2u-Sp7pXRT1c497DPQ6g9pJZ26Xcuo3mB5tIG0CXVcdCGW5x53HWNfuQd4KfR9gDOFnTO48YENVS74F9OrIlMqvxd_za3ujOVv_K4gXUySRJlfrKJN8ktkRPpIOMVc2OuzgVF2BcZZ4dF44gocvGwqEE8BVGE2BBprYuQDEgSSuXI6ZQXZn3X9wr5Yhjk3JGclx12w8Ar-IO1LV6_ZcrMM4XZCLVjTTly1vfCopc7SBWCcCQ_HGbHg3qU7063KT_XL7AYgm31YNfxoOFmx4Kh8H_q3ROmzD31ZfG6lLIDw7Ps2B1ds2vP0FRVM3UzmvZjmcCIx3tjadPSMmlTz1iWmrJTvVpctVQ1qkW1f-Cn6DU%2C&glfilter=7893318%3A13323952"
-            target="_blank"
+            href="https://market.yandex.ru/search?suggest_text=%D0%9D%D0%9E%D0%A0%D0%A2&vendorId=13323952&rs=eJxVyaEOwjAQANCVLDCqKgmYk7je9W5ra5EogkORbkcVkv3_giHj2Rc2N3N52JPtOuPg0ELrtse9vmqZ359ngObc_NKCXSf_pQGzTvqmM9ddr2GqKPdAkRJLyhmJxfcDZaFJx8IxlVG5cgxJVIUKDoiePC0fzh4V&glfilter=7893318%3A13323952" target="_blank"
           >
             <nuxt-img
               format="webp"
-              alt="Купить Pirilax Special на яндекс маркете"
+              alt="Купить Krasula aqua top на яндекс маркете"
               quality="100" src="img/ya-mob.png" width="58" height="58"
           /></a>
         </div>

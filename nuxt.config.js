@@ -49,7 +49,7 @@ export default {
       },
       { rel: 'shortcut icon', type: 'image/x-icon', href: '/favicon.png' },
     ],
-    title: ' ',
+    title: '«KRASULA®» AQUA TOP - Защитный состав для обработки деревянных поверхностей из всех пород древесины с гидрофобным эффектомэ',
     htmlAttrs: {
       lang: 'en',
     },
@@ -91,7 +91,9 @@ export default {
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
   ],
-
+  gtm: {
+    id: "GTM-PJRW65LF"
+  },
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     '@nuxt/image',
