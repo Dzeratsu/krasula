@@ -7,10 +7,10 @@
       </div>
       <div class="lg:w-7/12 w-full">
         <client-only >
-          <iframe class="max-sm:hidden" width="100%" height="403" src="https://www.youtube.com/embed/w_bYTCbTxX4?si=cXRzw-Zv7Jmwpqwm" title="Krasula top" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe class="max-sm:hidden" width="100%" height="403" src="https://vk.com/video_ext.php?oid=-117164278&id=456239135&hd=2" title="Krasula top" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </client-only>
         <client-only>
-          <iframe   class="hidden max-sm:block" width="100%" height="219" src="https://www.youtube.com/embed/w_bYTCbTxX4?si=cXRzw-Zv7Jmwpqwm" title="Krasula top" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe   class="hidden max-sm:block" width="100%" height="219" src="https://vk.com/video_ext.php?oid=-117164278&id=456239135&hd=2" title="Krasula top" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </client-only>
       </div>
     </div>
