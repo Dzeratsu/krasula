@@ -3,7 +3,7 @@
     <span id="about" class="block absolute -mt-32 lg:-mt-24"></span>
     <div class="mx-auto px-6 max-sm:py-[27px] sm:my-[80px]">
       <h2 class="text-center text-[21px] font-bold lp:text-4xl 2xl:text-6xl uppercase">
-        Финишное атмосферостойкое покрытие <br>
+        Лак по дереву на водной основе <br>
         «KRASULA®» Aqua TOP</h2>
       <div>
         <div class=" mt-4 bg-bg-gray rounded-xl max-w-[970px] mx-auto align-middle items-center lg:text-center py-[20px] lg:text-[21px] p-4 text-[16px]">
@@ -24,7 +24,7 @@ class="flex gap-2 max-sm:items-baseline lg:ml-[100px]">
               width="8"
               height="8"
             />
-            <p>в качестве дополнительного защитного покрытия поверх красок и лаков</p>
+            <p>в качестве дополнительного защитного покрытия</p>
           </div>
           <div class="flex gap-2   max-sm:items-baseline lg:ml-[100px]">
             <nuxt-img

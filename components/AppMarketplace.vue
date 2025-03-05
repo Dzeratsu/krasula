@@ -18,14 +18,8 @@
       <div
         class="lg:ml-[105px] flex gap-x-[25px] mt-[25px] lg:mt-0 justify-center"
       >
-        <a href="https://www.wildberries.ru/catalog/0/search.aspx?search=%D0%BA%D1%80%D0%B0%D1%81%D1%81%D1%83%D0%BB%D0%B0%20%D0%B0%D0%BA%D0%B2%D0%B0%20%D1%82%D0%BE%D0%BF" target="_blank"
-          ><nuxt-img
-          alt="Купить Krasula aqua top на wildberess"
-          format="webp"
-          quality="100" src="img/will.png" width="228" height="50"
-        /></a>
         <a href="https://www.ozon.ru/search/?text=Krasula+Aqua+Top&from_global=true" target="_blank"
-          ><nuxt-img
+        ><nuxt-img
           format="webp"
           alt="Купить Krasula aqua top на ozon"
           quality="100" src="img/ozon.png" width="177" height="50"
@@ -37,6 +31,12 @@
           format="webp"
           alt="Купить Krasula aqua top на яндекс маркете"
           quality="100" src="img/ya.png" width="242" height="51"
+        /></a>
+        <a href="https://www.wildberries.ru/catalog/0/search.aspx?search=%D0%BA%D1%80%D0%B0%D1%81%D1%81%D1%83%D0%BB%D0%B0%20%D0%B0%D0%BA%D0%B2%D0%B0%20%D1%82%D0%BE%D0%BF" target="_blank"
+        ><nuxt-img
+          alt="Купить Krasula aqua top на wildberess"
+          format="webp"
+          quality="100" src="img/will.png" width="228" height="50"
         /></a>
       </div>
     </div>
