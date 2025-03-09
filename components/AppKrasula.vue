@@ -61,7 +61,7 @@ class="flex gap-2 max-sm:items-baseline lg:ml-[100px]">
         </div>
       </div>
       <AppButton
-        link="https://www.nort-udm.ru/upload/iblock/d0d/d0dbae0c3972ae50123b21170f322608.pdf"
+        link="https://www.nort-udm.ru/upload/iblock/375/37551fabf0beeb9f68a61dd84d030559.pdf"
         class="mt-[39px]"
       >
         <div class="flex items-center justify-center gap-4">
