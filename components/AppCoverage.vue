@@ -54,9 +54,9 @@ export default {
   data() {
     return {
       slide: [
-        { imgSrc: '/img/coverage/coverage1.png', text: 'Гидрофобный эффект'},
-        { imgSrc: '/img/coverage/coverage2.png', text: 'Бесцветное, шелковистое полуматовое покрытие, подчеркивает текстуру дерева' },
-        { imgSrc: '/img/coverage/coverage3.png', text: 'Обработанные поверхности безопасны для людей и животных' },
+        { imgSrc: '/img/coverage1/coverage1.png', text: 'Гидрофобный эффект'},
+        { imgSrc: '/img/coverage1/coverage2.png', text: 'Бесцветное, шелковистое полуматовое покрытие, подчеркивает текстуру дерева' },
+        { imgSrc: '/img/coverage1/coverage3.png', text: 'Обработанные поверхности безопасны для людей и животных' },
       ],
     }
   },
