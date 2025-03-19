@@ -5,7 +5,7 @@
     @click="scroll"
   >
     <button class="px-[18px] py-[21px] rounded-full shadowCircle  bg-white">
-      <nuxt-img
+      <img
         src="img/scroll.svg"
         alt="scroll"
         width="18"

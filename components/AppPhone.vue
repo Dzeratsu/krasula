@@ -28,7 +28,7 @@
         class="p-[20px] rounded-full callback bg-orange-gr  test callback"
         @click="openPopup"
       >
-        <nuxt-img
+        <img
           format="webp"
           quality="100"
           src="img/phone.svg"
@@ -37,7 +37,7 @@
           height="31"
           class="text-xl hidden lg:block"
         />
-        <nuxt-img
+        <img
           format="webp"
           quality="100"
           src="img/phone.svg"
@@ -52,7 +52,7 @@
         class="p-[20px] rounded-full bg-[#666666] test"
         @click="openPopup"
       >
-        <nuxt-img
+        <img
           format="webp"
           quality="100"
           src="img/cross.svg"
@@ -61,7 +61,7 @@
           height="31"
           class="text-xl hidden lg:block"
         />
-        <nuxt-img
+        <img
           format="webp"
           quality="100"
           src="img/cross.svg"

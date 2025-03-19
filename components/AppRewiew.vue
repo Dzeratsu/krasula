@@ -7,7 +7,7 @@
         <div
           class="flex items-center justify-center rounded-[10px] px-2 py-4 shadow-review-shadow bg-white"
         >
-          <nuxt-img
+          <img
             format="webp"
             quality="100"
             class="sm:hidden"
@@ -16,7 +16,7 @@
             width="267"
             height="374"
           />
-          <nuxt-img
+          <img
             format="webp"
             quality="100"
             class="hidden sm:block lp:max-w-[70%]"
@@ -31,7 +31,7 @@
         <div
           class="flex items-center justify-center rounded-[10px] px-2 py-4 shadow-review-shadow bg-white"
         >
-          <nuxt-img
+          <img
             format="webp"
             quality="100"
             class="sm:hidden"
@@ -40,7 +40,7 @@
             width="267"
             height="374"
           />
-          <nuxt-img
+          <img
             format="webp"
             quality="100"
             class="hidden sm:block lp:max-w-[70%]"
@@ -55,7 +55,7 @@
         <div
           class="flex items-center justify-center rounded-[10px] px-2 py-4 shadow-review-shadow bg-white"
         >
-          <nuxt-img
+          <img
             format="webp"
             quality="100"
             class="sm:hidden"
@@ -64,7 +64,7 @@
             width="267"
             height="374"
           />
-          <nuxt-img
+          <img
             format="webp"
             quality="100"
             class="hidden sm:block lp:max-w-[70%]"

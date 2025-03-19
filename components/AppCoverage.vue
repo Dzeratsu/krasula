@@ -18,7 +18,7 @@
       <div class="flex flex-wrap mt-[56px] justify-around w-9/12 mx-auto">
         <div v-for="(item) in slide" :key="item.text" class="w-[244px]">
           <div class="flex flex-col justify-center items-center gap-x-[86px]">
-            <nuxt-img :src="item.imgSrc" width="180" height="180" class="align-middle"/>
+            <img :src="item.imgSrc" width="180" height="180" class="align-middle"/>
             <div
               class="font-semibold text-[18px] text-center mt-4">
 <!--              :class="[index > 0 ? 'mt-4': '']"-->
@@ -34,7 +34,7 @@
           :key="item.text"
           class="swiper-slide flex flex-col items-center text-center "
         >
-          <nuxt-img
+          <img
             width="193"
             heigh="193"
             format="webp"
@@ -54,9 +54,9 @@ export default {
   data() {
     return {
       slide: [
-        { imgSrc: 'img/coverage/coverage1.png', text: 'Гидрофобный эффект'},
-        { imgSrc: 'img/coverage/coverage2.png', text: 'Бесцветное, шелковистое полуматовое покрытие, подчеркивает текстуру дерева' },
-        { imgSrc: 'img/coverage/coverage3.png', text: 'Обработанные поверхности безопасны для людей и животных' },
+        { imgSrc: '/img/coverage/coverage1.png', text: 'Гидрофобный эффект'},
+        { imgSrc: '/img/coverage/coverage2.png', text: 'Бесцветное, шелковистое полуматовое покрытие, подчеркивает текстуру дерева' },
+        { imgSrc: '/img/coverage/coverage3.png', text: 'Обработанные поверхности безопасны для людей и животных' },
       ],
     }
   },

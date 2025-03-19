@@ -8,7 +8,7 @@
       <div>
         <div class=" mt-4 bg-bg-gray rounded-xl max-w-[970px] mx-auto align-middle items-center lg:text-center py-[20px] lg:text-[21px] p-4 text-[16px]">
           <div class="flex gap-2 max-sm:items-baseline lg:ml-[100px]">
-            <nuxt-img
+            <img
               src="img/ellipse.svg"
               alt="krasula"
               width="8"
@@ -18,7 +18,7 @@
           </div>
           <div
 class="flex gap-2 max-sm:items-baseline lg:ml-[100px]">
-            <nuxt-img
+            <img
               src="img/ellipse.svg"
               alt="krasula"
               width="8"
@@ -27,7 +27,7 @@ class="flex gap-2 max-sm:items-baseline lg:ml-[100px]">
             <p>в качестве дополнительного защитного покрытия</p>
           </div>
           <div class="flex gap-2   max-sm:items-baseline lg:ml-[100px]">
-            <nuxt-img
+            <img
               src="img/ellipse.svg"
               alt="krasula"
               width="8"
@@ -39,14 +39,14 @@ class="flex gap-2 max-sm:items-baseline lg:ml-[100px]">
         <div
           class="mt-5 flex flex-col items-center md:flex-row sm:justify-center sm:gap-[57px]"
         >
-          <nuxt-img
+          <img
             class="hidden sm:block lp:max-w-[320px] max-w-full"
             src="img/krasula.png"
             alt="Защитный декоратинвный состав для древесины krasula top"
             width="417"
             height="408"
           />
-          <nuxt-img
+          <img
             src="img/krasula-mob.png"
             alt="Защитный декоратинвный состав для древесины krasula top"
             width="275"
@@ -66,7 +66,7 @@ class="flex gap-2 max-sm:items-baseline lg:ml-[100px]">
       >
         <div class="flex items-center justify-center gap-4">
           <span>Инструкция</span>
-          <nuxt-img
+          <img
             format="webp"
             quality="100" src="img/load.svg" width="23" height="23" alt="Смотреть инструкцию krasula top" />
         </div>

@@ -1,13 +1,13 @@
 <template>
   <div>
-    <nuxt-img
+    <img
       quality="100"
       format="webp"
       src="img/banner.png"
       alt="krasula top"
       class="mx-auto hidden mob:block lp:w-[90%]"
     />
-    <nuxt-img
+    <img
       format="webp"
       quality="100"
       src="img/banner-mob.png"

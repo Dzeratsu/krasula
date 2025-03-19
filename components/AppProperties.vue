@@ -7,7 +7,7 @@
   <div class="flex flex-wrap mt-[48px] justify-center">
     <div v-for="(item, index) in slide" :key="item.text" class="w-[233px]">
       <div class="flex flex-col justify-center items-center gap-2">
-      <nuxt-img :src="item.imgSrc" width="180" height="180" class="align-middle"/>
+      <img :src="item.imgSrc" width="180" height="180" class="align-middle"/>
       <div
 class="font-semibold text-[21px] text-center"
       :class="[index > 0 ? 'mt-4': '']"
@@ -24,7 +24,7 @@ class="font-semibold text-[21px] text-center"
         :key="item.text"
         class="swiper-slide flex flex-col items-center text-center "
       >
-        <nuxt-img
+        <img
           width="230"
           heigh="230"
           format="webp"

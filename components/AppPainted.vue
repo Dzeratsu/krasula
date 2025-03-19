@@ -4,7 +4,7 @@
     <h3 class="uppercase font-bold text-[40px] mx-auto text-center mt-[80px]">Варианты нанесения</h3>
     <div class="flex gap-[6px]">
       <div v-for="item in painted" :key="item.hred" class="text-[18px] leading-[24px]">
-        <nuxt-img
+        <img
           format="webp"
           quality="100"
          :src="item.hred" width="230" height="137" />
@@ -22,7 +22,7 @@
           :key="item.text"
           class="swiper-slide flex flex-col items-center text-center"
         >
-          <nuxt-img
+          <img
             width="270"
             heigh="151"
             format="webp"

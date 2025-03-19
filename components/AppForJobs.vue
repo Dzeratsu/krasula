@@ -5,17 +5,17 @@
       Подходит для наружных и  внутренних работ
     </h2>
     <div class="flex flex-wrap max-sm:hidden gap-[20px] lg:mt-[44px] mx-auto items-center justify-center">
-      <nuxt-img quality=100 format=webp src="/img/jobs/forJobs1.png" width="570" height="394"/>
-      <nuxt-img quality=100 format=webp src="/img/jobs/forJobs2.png" width="570" height="394"/>
-      <nuxt-img quality=100 format=webp src="/img/jobs/forJobs3.png" width="570" height="394"/>
-      <nuxt-img quality=100 format=webp src="/img/jobs/forJobs4.png" width="570" height="394"/>
+      <img quality=100 format=webp src="/img/jobs/forJobs1.png" width="570" height="394"/>
+      <img quality=100 format=webp src="/img/jobs/forJobs2.png" width="570" height="394"/>
+      <img quality=100 format=webp src="/img/jobs/forJobs3.png" width="570" height="394"/>
+      <img quality=100 format=webp src="/img/jobs/forJobs4.png" width="570" height="394"/>
     </div>
     <div class="swiper max-sm:block hidden">
       <ul class="swiper-wrapper mt-4">
         <li
           class="swiper-slide flex flex-col items-center text-center "
         >
-          <nuxt-img
+          <img
             width="375"
             heigh="259"
             format="webp"
@@ -24,7 +24,7 @@
         <li
           class="swiper-slide flex flex-col items-center text-center "
         >
-          <nuxt-img
+          <img
             width="375"
             heigh="259"
             format="webp"
@@ -33,7 +33,7 @@
         <li
           class="swiper-slide flex flex-col items-center text-center "
         >
-          <nuxt-img
+          <img
             width="375"
             heigh="259"
             format="webp"
@@ -42,7 +42,7 @@
         <li
           class="swiper-slide flex flex-col items-center text-center "
         >
-          <nuxt-img
+          <img
             width="375"
             heigh="259"
             format="webp"

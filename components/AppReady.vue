@@ -8,7 +8,7 @@
       >
         <div class="sm:w-6/12">
           <div class="flex items-center sm:items-center flex-shrink-1 lg:h-[100px]">
-            <nuxt-img
+            <img
               format="webp"
               quality="100"
               class="hidden sm:block"
@@ -17,7 +17,7 @@
               height="70"
               alt="Защита древесины  - финищное покрытие"
             />
-            <nuxt-img
+            <img
               format="webp"
               quality="100"
               class="sm:hidden "
@@ -36,7 +36,7 @@
               </li>
             </ul>
           </div>
-          <nuxt-img
+          <img
             format="webp"
             quality="100"
             class="mt-[46px] lp:mt-[16px]"
@@ -48,7 +48,7 @@
         </div>
         <div class="max-sm:mt-[36px] sm:w-6/12">
           <div class="flex items-center sm:items-center lg:h-[100px]">
-            <nuxt-img
+            <img
               format="webp"
               quality="100"
               class="sm:hidden"
@@ -58,7 +58,7 @@
               alt="защита от плесени, растрескивания, старения,
                 выцветания, влаги"
             />
-            <nuxt-img
+            <img
               format="webp"
               quality="100"
               class="hidden sm:block"
@@ -79,7 +79,7 @@
               </li>
             </ul>
           </div>
-          <nuxt-img
+          <img
             format="webp"
             quality="100"
             class="mt-[46px] lp:mt-[16px] lp:max-w-[80%]"
