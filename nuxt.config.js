@@ -96,7 +96,6 @@ export default {
   },
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    '@nuxt/image',
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
     'nuxt-logger',
